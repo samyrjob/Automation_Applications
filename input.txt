@@ -1,47 +1,73 @@
-Student Software Engineer
-Computer Science, Software, IT.
+Industrial Placement Software Engineer
+Aerospace, Computing, Electronic, Physics, Software.
 
-Competitive
-Havant (Hampshire) (Hybrid)
-All grades
+£25,000
+Southampton (Hybrid)
+2:2 and above (expected)
 Placement / Internship
 12 months
 Deadline: Ongoing
 Preferred Disciplines...
-Computer Science, Information Technology, Software, Systems
+Aeronautics, Aerospace, Computer Science, Electrical, Electronic, Maths, Mechanical, Physics, Software, Systems
 Also Accepting...
-AI/Machine Learning, Data Science, Hardware, IT Architecture, Project Management, Web Development
+Aerodynamics, Avionics, Control & Instrumentation, Hardware, Information Technology, Mechatronics, Web Development
 Application Notes
 Save notes
 Job Description
-Here at Apollo, we make smart devices that keep people safe from fire every second of every day. We are proud of our reputation for being a leading global manufacturer in the market for high quality fire detection solutions.
+Job Description:
 
-We have an exciting opportunity to join us for a student placement in our Software department.
+At Leonardo we value individuals who continuously demonstrate a dedication to their personal development, and successful completion of an Industrial Placement with Leonardo can lead to an offer on our Graduate Development Programme.  
 
+We are looking for highly motivated individuals who are willing to take on a challenge to fill our industrial placement roles, and we will demand a high degree of customer focus and work performance from you in order to meet our operational challenges.
 
-As a Student Software Engineer you will be working both independently and as part of a team to develop and maintain Apollo products. This encompasses the creation and maintenance of the required tools and processes to deliver Apollo products.
+The Opportunity
+Leonardo’s Industrial Placement programme offers a paid placement (£25,000) to develop your knowledge and skills you require to become an engineering or business professional of the future.
 
-You will be:
-Exposed to our software development processes, and actively participate in development projects
-Introduced to a variety of technologies including Embedded Software, Application Development and Cyber Security
-Supporting the team with any high priority work that might be required.
-The successful student will have:
-Completed 2 years of study and courses in relevant software subjects.
-Knowledge and enthusiasm for coding
-Great communication skills, flexible attitude and a passion for innovation.
-Good organisation skills and be comfortable working with some degree of uncertainty.
-Benefits Package:
-We are pleased to offer a comprehensive benefits package alongside a competitive salary including:
+On our programme, you will engage with challenging and exciting project work, and deliver innovative business or technical solutions as part of a team of subject matter experts. Throughout the programme, you will receive coaching and support from your team to achieve your objectives as well as your personal development goals.
 
-Flexi-start and finish times (1pm finish on a Friday available)
-Optional 9-day fortnight*
-Training and professional development
-Pension scheme with an employer contribution of 10.5% (subject to conditions)
-Health cash plan – contribution towards health care costs
-EAP Workplace options
-Life insurance – 3 times salary and up to 6 times if you have dependents
-24/7 support Healthline
-Free electric car charging
-Free onsite parking
-Subsidised canteen
-If this sounds like a role that you would be interested in, then we would love to hear from you!
+You will gain a wide array of experience on your placement that you can apply to your academic studies and future career. There may be the possibility to continue to collaborate with Leonardo during your final year(s).
+
+At Leonardo we value individuals who continuously demonstrate a dedication to their personal development, and successful completion of an Industrial Placement with Leonardo can lead to an offer on our Graduate Development Programme.
+
+We are looking for highly motivated individuals who are willing to take on a challenge to fill our industrial placement roles, and we will demand a high degree of customer focus and work performance from you in order to meet our operational challenges. If you are willing able to commit to giving your best performance, you will find Leonardo a very rewarding place to work!
+
+What you will do as an Industrial Placement Software Engineer:
+You can look forward to working with highly skilled professionals who are passionate about their work of designing and developing cutting edge technology for a worldwide market.
+
+You will report to an experienced Software Engineer who will provide day to day guidance and on-the-job training. You will be introduced to the software development processes and utilise state-of-the-art methods, technology and tools. You will also gain experience on one or more aspects of the software development lifecycle, which could include: applied research, requirements analysis, design, implementation, integration, and test
+
+Particular emphasis will be placed on learning practical skills that may not be easily gained or experienced in the academic environment of a university.
+
+What we are looking for
+This is an exciting and challenging Software Engineering opportunity for students currently studying a science based degree e.g. Software Engineering, Computer Science, Physics, Mathematics or Electronic Engineering (BSc (Hon) / BEng (Hon) / MEng.) You are expected to have an appropriate gap in studies.
+
+You will have some experience of computer programming and be enthusiastic and passionate about designing software and writing code. Experience of an object-oriented programming language such as C++ and knowledge of UML (Unified Modelling Language) is an advantage but not essential.
+
+A full statement of courses and projects studied at university and corresponding grades/marks/percentage should be included in your CV.
+
+Applications are also welcomed from candidates who have completed a first degree and are looking to gain industrial experience prior to commencing a relevant higher degree (i.e. PhD, MSc).
+
+Skills, Qualifications & Knowledge Required
+All of our Industrial Placement roles require you to be currently studying a relevant degree discipline such as Physics, Mathematics, Engineering, or other STEM subject degrees.
+
+We would be interested if you were undertaking  Software Engineering, Computer Science, Physics, Mathematics or Electronic Engineering (BSc (Hon) / BEng (Hon) / MEng.) You are expected to have an appropriate gap in studies.
+
+You will have some experience of computer programming
+Be enthusiastic and passionate about designing software and writing code
+Have some experience of an object-oriented programming language such as Java, C++, C# or JavaScript and knowledge of UML (Unified Modelling Language) is an advantage but not essential
+A full statement of courses and projects studied at university and corresponding grades/marks/percentage should be included in your CV
+Applications are also welcomed from candidates who have completed a first degree and are looking to gain industrial experience prior to commencing a relevant higher degree (i.e. PhD, MSc)
+Please note that in order to apply for this opportunity you must be eligible for UK Security Clearance. Normally this is to the level of Security Check (typically known as “SC”) for our business which includes having a minimum of five years permanent residency in the UK.
+
+Life at Leonardo
+With a company funded benefits package, a commitment to learning and development, and a flexible approach to working hours focused on the needs of both our employees and customers, a career with Leonardo has never offered as many opportunities or been more accessible to as many people
+
+Flexible Working: Flexible hours with possibility of some hybrid working.
+Company funded flexible benefits: Access to private healthcare, dental schemes, Workplace ISA, Go Green Car Scheme, technology and lifestyle options (£500 annual allowance)
+Holidays: 25 days plus bank holidays, option to buy/sell leave and to accrue up to 12 additional flexi leave days per year
+Pension: Award winning pension scheme (up to 15% employer contribution)
+Wellbeing: Employee Assistance Programme with access to free mental health support, financial wellbeing support and network groups to demonstrate our ongoing commitment to diversity & inclusion (Enable, Pride, Equalise, Reservists, Carers)
+Lifestyle:  Discounted Gym membership, Cycle to work scheme
+Training: Free access to more than 4000 online courses via Coursera
+Referral Incentive: You can earn a reward for successfully referring a friend or family member
+At Leonardo, we are strongly committed to supporting all our people, and, as society and the environment we work in changes, our approach to Inclusion and Diversity continues to evolve and adapt to reflect this. A culture of inclusion goes on to create an environment for greater collaboration, innovation and opportunities to develop as an organisation. If you are willing and able to commit to giving your best performance, you will find Leonardo a very rewarding place to work!

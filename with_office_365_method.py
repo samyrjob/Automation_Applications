@@ -12,7 +12,7 @@ from io import BytesIO
 load_dotenv()
 
 # Step 1: Read the .txt file
-with open("input.txt", "r") as file:
+with open("input.txt", "r",  errors="ignore") as file:
     text_content = file.read()
 
 # # Step 2: Send to AI for analysis
@@ -79,7 +79,7 @@ def update_onedrive_excel(new_data):
             
             # Append new data with index=True
             new_df = pd.DataFrame([new_data])
-            updated_df = pd.concat([existing_df, new_df], ignore_index=True)
+            updated_df = pd.concat([existing_df, new_df], ignore_index=False)
             
             # Prepare to upload
             output = BytesIO()
