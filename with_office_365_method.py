@@ -103,7 +103,7 @@ def update_onedrive_excel(new_data):
         else:
             updated_df = pd.DataFrame([new_data])
         
-        updated_df.to_excel(local_path, index=True)
+        updated_df.to_excel(local_path, index=False)
         print(f"Saved to local backup file: {local_path}")
         return False
 
