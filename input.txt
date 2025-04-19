@@ -1,73 +1,57 @@
-Industrial Placement Software Engineer
-Aerospace, Computing, Electronic, Physics, Software.
+Software Industrial Placement
+Computing, Web Development, AI, Data, Software.
 
 £25,000
-Southampton (Hybrid)
+St. James's (London)
 2:2 and above (expected)
-Placement / Internship
+Placement / Internship (Hiring multiple candidates)
 12 months
 Deadline: Ongoing
 Preferred Disciplines...
-Aeronautics, Aerospace, Computer Science, Electrical, Electronic, Maths, Mechanical, Physics, Software, Systems
+AI/Machine Learning, Computer Science, Data Science, Information Technology, Software, Web Development
 Also Accepting...
-Aerodynamics, Avionics, Control & Instrumentation, Hardware, Information Technology, Mechatronics, Web Development
+Aerodynamics, Aeronautics, Aerospace, Avionics, Cyber Security, Electronic, IT Architecture, Robotics, Systems
 Application Notes
 Save notes
 Job Description
 Job Description:
+Leonardo’s Industrial Placement programme offers a paid placement (£25,000) to develop your knowledge and skills you require to become an engineering or business professional of the future.
+
+On our programme you will engage with challenging and exciting project work, and deliver innovative business or technical solutions as part of a team of subject matter experts. Throughout the programme you will receive coaching and support from your team to achieve your objectives as well as your personal development goals. You will gain a wide array of experience on your placement that you can apply to your academic studies and future career. 
+
 
 At Leonardo we value individuals who continuously demonstrate a dedication to their personal development, and successful completion of an Industrial Placement with Leonardo can lead to an offer on our Graduate Development Programme.  
 
-We are looking for highly motivated individuals who are willing to take on a challenge to fill our industrial placement roles, and we will demand a high degree of customer focus and work performance from you in order to meet our operational challenges.
+We are looking for highly motivated individuals who are willing to take on a challenge to fill our industrial placement roles, and we will demand a high degree of customer focus and work performance from you in order to meet our operational challenges. If you are willing able to commit to giving your best performance, you will find Leonardo a very rewarding place to work!  
 
-The Opportunity
-Leonardo’s Industrial Placement programme offers a paid placement (£25,000) to develop your knowledge and skills you require to become an engineering or business professional of the future.
+Our Central London team is looking for talented and enthusiastic software engineers to develop and maintain the internal knowledge management software for our MOD customer. The role will suit those with a Computer Science background who wish to apply their abilities in a broad corporate context.
 
-On our programme, you will engage with challenging and exciting project work, and deliver innovative business or technical solutions as part of a team of subject matter experts. Throughout the programme, you will receive coaching and support from your team to achieve your objectives as well as your personal development goals.
-
-You will gain a wide array of experience on your placement that you can apply to your academic studies and future career. There may be the possibility to continue to collaborate with Leonardo during your final year(s).
-
-At Leonardo we value individuals who continuously demonstrate a dedication to their personal development, and successful completion of an Industrial Placement with Leonardo can lead to an offer on our Graduate Development Programme.
-
-We are looking for highly motivated individuals who are willing to take on a challenge to fill our industrial placement roles, and we will demand a high degree of customer focus and work performance from you in order to meet our operational challenges. If you are willing able to commit to giving your best performance, you will find Leonardo a very rewarding place to work!
-
-What you will do as an Industrial Placement Software Engineer:
-You can look forward to working with highly skilled professionals who are passionate about their work of designing and developing cutting edge technology for a worldwide market.
-
-You will report to an experienced Software Engineer who will provide day to day guidance and on-the-job training. You will be introduced to the software development processes and utilise state-of-the-art methods, technology and tools. You will also gain experience on one or more aspects of the software development lifecycle, which could include: applied research, requirements analysis, design, implementation, integration, and test
-
-Particular emphasis will be placed on learning practical skills that may not be easily gained or experienced in the academic environment of a university.
-
-What we are looking for
-This is an exciting and challenging Software Engineering opportunity for students currently studying a science based degree e.g. Software Engineering, Computer Science, Physics, Mathematics or Electronic Engineering (BSc (Hon) / BEng (Hon) / MEng.) You are expected to have an appropriate gap in studies.
-
-You will have some experience of computer programming and be enthusiastic and passionate about designing software and writing code. Experience of an object-oriented programming language such as C++ and knowledge of UML (Unified Modelling Language) is an advantage but not essential.
-
-A full statement of courses and projects studied at university and corresponding grades/marks/percentage should be included in your CV.
-
-Applications are also welcomed from candidates who have completed a first degree and are looking to gain industrial experience prior to commencing a relevant higher degree (i.e. PhD, MSc).
-
-Skills, Qualifications & Knowledge Required
-All of our Industrial Placement roles require you to be currently studying a relevant degree discipline such as Physics, Mathematics, Engineering, or other STEM subject degrees.
-
-We would be interested if you were undertaking  Software Engineering, Computer Science, Physics, Mathematics or Electronic Engineering (BSc (Hon) / BEng (Hon) / MEng.) You are expected to have an appropriate gap in studies.
-
-You will have some experience of computer programming
-Be enthusiastic and passionate about designing software and writing code
-Have some experience of an object-oriented programming language such as Java, C++, C# or JavaScript and knowledge of UML (Unified Modelling Language) is an advantage but not essential
-A full statement of courses and projects studied at university and corresponding grades/marks/percentage should be included in your CV
-Applications are also welcomed from candidates who have completed a first degree and are looking to gain industrial experience prior to commencing a relevant higher degree (i.e. PhD, MSc)
-Please note that in order to apply for this opportunity you must be eligible for UK Security Clearance. Normally this is to the level of Security Check (typically known as “SC”) for our business which includes having a minimum of five years permanent residency in the UK.
-
-Life at Leonardo
-With a company funded benefits package, a commitment to learning and development, and a flexible approach to working hours focused on the needs of both our employees and customers, a career with Leonardo has never offered as many opportunities or been more accessible to as many people
-
-Flexible Working: Flexible hours with possibility of some hybrid working.
-Company funded flexible benefits: Access to private healthcare, dental schemes, Workplace ISA, Go Green Car Scheme, technology and lifestyle options (£500 annual allowance)
-Holidays: 25 days plus bank holidays, option to buy/sell leave and to accrue up to 12 additional flexi leave days per year
-Pension: Award winning pension scheme (up to 15% employer contribution)
-Wellbeing: Employee Assistance Programme with access to free mental health support, financial wellbeing support and network groups to demonstrate our ongoing commitment to diversity & inclusion (Enable, Pride, Equalise, Reservists, Carers)
-Lifestyle:  Discounted Gym membership, Cycle to work scheme
-Training: Free access to more than 4000 online courses via Coursera
-Referral Incentive: You can earn a reward for successfully referring a friend or family member
-At Leonardo, we are strongly committed to supporting all our people, and, as society and the environment we work in changes, our approach to Inclusion and Diversity continues to evolve and adapt to reflect this. A culture of inclusion goes on to create an environment for greater collaboration, innovation and opportunities to develop as an organisation. If you are willing and able to commit to giving your best performance, you will find Leonardo a very rewarding place to work!
+The type of project you will be working on:
+Customer Integration: You will be a member of a weapons project team within our larger Defence Analytics Group working in Central London. The group is integrated into a joint unit with government employees, members of the armed forces, and other contractors.
+The Challenge: To develop and maintain in-house knowledge management software for weapons systems. This tool is primarily written in C# for customer interaction, linking into underlying databases and presenting the information via a web interface.
+Collaboration: You will be working in close liaison with wider teams across the customer base to understand their requirements, with the opportunity to contribute, influence, challenge and improve joint ways of working and knowledge.
+Breadth: You will be working in an environment where supporting different customer requirements presents a variety of challenges.
+What you’ll do:
+Collaborate with the Principal Software Engineer: Assist in prototyping, designing, developing, and maintaining our in-house front-end application and product website.
+Database Management: Support the maintenance, development, and querying of our back-end database.
+Production Runs: Participate in monthly production runs to deliver updated weapons assessments to various partners, addressing technical and strategic integration challenges across different environments.
+Customer Support: Provide ad hoc advice and support to MOD customers, often at short notice.
+Travel: Travel within the UK for customer and delivery support.
+What we need from you:
+All of our Industrial Placement roles require you to be currently studying a relevant degree discipline such as: Computer Science, Software Engineering or a STEM degree with a strong emphasis on programming, with the ability to apply these skills to a variety of problems.
+Front-End Development: A number of languages are utilised, including HTML, CSS, JavaScript, and relevant frameworks (e.g., ASP.NET) for designing and maintaining web applications. You do not need experience with all of these, but you do need a willingness to learn.
+Software Development: Experience in software prototyping, design, and development, preferably with knowledge of programming languages such as C#, .NET, XAML, and WPF.
+Problem-Solving: Ability to address technical and strategic challenges, particularly in integrating systems across different environments.
+Customer Support: Good communication and interpersonal skills to provide effective support and advice to customers, often at short notice.
+Project Management: Organisational skills to assist in managing production runs and delivering updates on schedule.
+The ability to work office-based in central London.
+It would be nice if you had:
+Back-End Database Management: Knowledge of SQL and experience with database management systems (e.g., SQL, Transact-SQL) for maintaining and querying databases.
+An appreciation of, and interest in, aerospace technologies.
+What you will get:
+Impact: You will help ensure that MOD’s weapon assessments are robust and delivered in a timely manner to UK Defence partners and front-line forces.
+Opportunity: You will play a key role in the delivery of MOD weapon assessment which is a critical input to MOD’s equipment procurement programs. 
+Knowledge: You will develop an understanding of C# coding within a real-world project and an engaged customer base.
+Skills: You will develop a range of software, project planning and interpersonal skills.
+Insights: You will get to work within a Leonardo team that is fully integrated with its MOD customer which will provide an excellent opportunity to see up-close how the MOD operates. 
+Teamwork: You will work with a diverse technical team in a highly collaborative environment.
