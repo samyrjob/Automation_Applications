@@ -1,38 +1,32 @@
-function reducer(store, action) {
+const initialState = {
+    offers: [], // Array to hold placement offers
+    nextId: 1 // Initialize the counter for IDs
+};
+
+
+export default function reducer(store = initialState, action) {
     switch (action.type) {
         case 'ADD_PLACEMENT_OFFER':
+            const newOffer = {
+                ...action.payload,
+                id: store.nextId // Use the current counter value as the ID
+            }
             return {
                 ...store,
-                descriptions: [...store.descriptions, action.payload]
+                offers: [...store.offers, newOffer],
+                nextId: store.nextId + 1 // Increment the counter
             };
         case 'REMOVE_PLACEMENT_OFFER':
             return {
                 ...store,
-                descriptions: store.descriptions.filter(offer => offer.id !== action.payload.id)
+                offers: store.offers.filter(offer => offer.id !== action.payload.id)
             };
         default:
             return store;
     }
 }
 
-// Example usage:
-// Initial store
-const store = {
-    descriptions: []
-};
 
-// Action to add a new placement offer
-const action = {
-    type: 'ADD_PLACEMENT_OFFER',
-    payload: {
-        id: 1,
-        title: 'Software Engineer Intern',
-        company: 'Tech Corp',
-        location: 'Remote',
-        description: 'An exciting opportunity to work with cutting-edge technologies.'
-    }
-};
 
-// Updated store after reducer is called
-const updatedStore = reducer(store, action);
-console.log(updatedStore);
+
+
