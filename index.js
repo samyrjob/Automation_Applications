@@ -1,16 +1,32 @@
 import store from "./store.js";
+import * as actions  from "./actionTypes.js";
+import {addOffer}  from "./actions.js";
 
 
-
-console.log(store.getState()); // Initial state of the store
-store.dispatch({
-    type: 'ADD_PLACEMENT_OFFER',
-    payload: {
-        title: 'Software Engineer Intern',
-        company: 'Tech Corp',
-        location: 'Remote',
-        description: 'An exciting opportunity to work with cutting-edge technologies.'
-    }
+const unsubscribe = store.subscribe(() => {
+    console.log("State updated:", store.getState());
 });
 
-console.log(store.getState()); // Updated state of the store
+
+store.dispatch( 
+    addOffer(
+        "Software Engineer Intern",
+        "Tech Company",
+        "New York",
+        "Looking for a software engineer intern for summer 2024."
+    )
+);
+
+unsubscribe(); // Unsubscribe from the store updates
+
+// action to remove a placement offer
+store.dispatch({
+    type: actions.REMOVE_PLACEMENT_OFFER,
+    payload: {
+        id: 1 // Assuming the ID of the offer to be removed is 1
+    }
+})
+
+unsubscribe(); //! this one won't work as unsubscribe has already been called and unsubscribed 
+
+

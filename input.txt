@@ -1,57 +1,44 @@
-Software Industrial Placement
-Computing, Web Development, AI, Data, Software.
+Job Details
+ Deadline: Ongoing
+ Length: Placement (10 Months+)
+ Roles: Financial Management, Information Technology, Computer Science, Software Engineering, Investment Banking
+ Location: London
+ City: London
+Register your interest
+Applications aren't open for this job yet. BUT, you can register your interest in applying - let the employer know you're intrigued! We'll send word as soon as applications open.
 
-£25,000
-St. James's (London)
-2:2 and above (expected)
-Placement / Internship (Hiring multiple candidates)
-12 months
-Deadline: Ongoing
-Preferred Disciplines...
-AI/Machine Learning, Computer Science, Data Science, Information Technology, Software, Web Development
-Also Accepting...
-Aerodynamics, Aeronautics, Aerospace, Avionics, Cyber Security, Electronic, IT Architecture, Robotics, Systems
-Application Notes
-Save notes
-Job Description
-Job Description:
-Leonardo’s Industrial Placement programme offers a paid placement (£25,000) to develop your knowledge and skills you require to become an engineering or business professional of the future.
+So, if you see this icon  on a job listing, it means you can register your interest.
 
-On our programme you will engage with challenging and exciting project work, and deliver innovative business or technical solutions as part of a team of subject matter experts. Throughout the programme you will receive coaching and support from your team to achieve your objectives as well as your personal development goals. You will gain a wide array of experience on your placement that you can apply to your academic studies and future career. 
+Register Your Interest - 2026 Technology (GOTO) Industrial Placement
+Interested in working in finance, specifically to provide technical support across a wide range of products and technologies and contribute to the stability of the firm’s production environment, but not sure where to start? Do you want to work for a firm with a truly global footprint? 
 
+We’re looking for ambitious students to join our 2025 Industrial Placement Program within our Group Operations and Technology Office (GOTO). 
 
-At Leonardo we value individuals who continuously demonstrate a dedication to their personal development, and successful completion of an Industrial Placement with Leonardo can lead to an offer on our Graduate Development Programme.  
+You’ll get to:
+design, develop and improve the digital products and technology services we provide to our clients and employees provide transparency across data quality, data flows and current issues to ensure applications are of the highest standards
 
-We are looking for highly motivated individuals who are willing to take on a challenge to fill our industrial placement roles, and we will demand a high degree of customer focus and work performance from you in order to meet our operational challenges. If you are willing able to commit to giving your best performance, you will find Leonardo a very rewarding place to work!  
+Your team:
+You’ll be working in the Group Operations and Technology Office located in London. We’re responsible for sourcing, developing, implementing, maintaining, and supporting our world-class technology solutions. We’re a global organization with multiple streams that align with each of the key functional areas within UBS to ensure that our solutions meet business needs
 
-Our Central London team is looking for talented and enthusiastic software engineers to develop and maintain the internal knowledge management software for our MOD customer. The role will suit those with a Computer Science background who wish to apply their abilities in a broad corporate context.
+Your expertise:
+We’re looking for a candidate who:
 
-The type of project you will be working on:
-Customer Integration: You will be a member of a weapons project team within our larger Defence Analytics Group working in Central London. The group is integrated into a joint unit with government employees, members of the armed forces, and other contractors.
-The Challenge: To develop and maintain in-house knowledge management software for weapons systems. This tool is primarily written in C# for customer interaction, linking into underlying databases and presenting the information via a web interface.
-Collaboration: You will be working in close liaison with wider teams across the customer base to understand their requirements, with the opportunity to contribute, influence, challenge and improve joint ways of working and knowledge.
-Breadth: You will be working in an environment where supporting different customer requirements presents a variety of challenges.
-What you’ll do:
-Collaborate with the Principal Software Engineer: Assist in prototyping, designing, developing, and maintaining our in-house front-end application and product website.
-Database Management: Support the maintenance, development, and querying of our back-end database.
-Production Runs: Participate in monthly production runs to deliver updated weapons assessments to various partners, addressing technical and strategic integration challenges across different environments.
-Customer Support: Provide ad hoc advice and support to MOD customers, often at short notice.
-Travel: Travel within the UK for customer and delivery support.
-What we need from you:
-All of our Industrial Placement roles require you to be currently studying a relevant degree discipline such as: Computer Science, Software Engineering or a STEM degree with a strong emphasis on programming, with the ability to apply these skills to a variety of problems.
-Front-End Development: A number of languages are utilised, including HTML, CSS, JavaScript, and relevant frameworks (e.g., ASP.NET) for designing and maintaining web applications. You do not need experience with all of these, but you do need a willingness to learn.
-Software Development: Experience in software prototyping, design, and development, preferably with knowledge of programming languages such as C#, .NET, XAML, and WPF.
-Problem-Solving: Ability to address technical and strategic challenges, particularly in integrating systems across different environments.
-Customer Support: Good communication and interpersonal skills to provide effective support and advice to customers, often at short notice.
-Project Management: Organisational skills to assist in managing production runs and delivering updates on schedule.
-The ability to work office-based in central London.
-It would be nice if you had:
-Back-End Database Management: Knowledge of SQL and experience with database management systems (e.g., SQL, Transact-SQL) for maintaining and querying databases.
-An appreciation of, and interest in, aerospace technologies.
-What you will get:
-Impact: You will help ensure that MOD’s weapon assessments are robust and delivered in a timely manner to UK Defence partners and front-line forces.
-Opportunity: You will play a key role in the delivery of MOD weapon assessment which is a critical input to MOD’s equipment procurement programs. 
-Knowledge: You will develop an understanding of C# coding within a real-world project and an engaged customer base.
-Skills: You will develop a range of software, project planning and interpersonal skills.
-Insights: You will get to work within a Leonardo team that is fully integrated with its MOD customer which will provide an excellent opportunity to see up-close how the MOD operates. 
-Teamwork: You will work with a diverse technical team in a highly collaborative environment.
+needs to complete an Industrial Placement program as part of their studies, and then will graduate in 2027
+is on track for a 2.1 (UK grading system) or equivalent in their first undergraduate/bachelor degree 
+has values that align with ours: hard-working, trustworthy, dedicated and collaborative
+is a strategic thinker with strong communication skills
+is motivated to work in a business with high demands and tight deadlines
+We’re looking for someone who’s curious and wants to thrive in a business that never stops moving. We welcome all majors, but it’s important to have an interest in the financial industry. We want to see what makes you unique and discover what you can bring to our team. Perhaps you’ve organized a fundraising event or taken part in team sports? Or stepped out of your comfort zone to learn about a subject you found challenging? Let us know how your achievements match the skills we’re after.
+
+Your program:
+The internship lasts 12 months, where you’ll work with our experts and learn about the industry, our clients and our firm. You’ll be right at the heart of our business, learning from your colleagues, taking part in day-to-day operations. 
+
+You’ll have plenty of opportunities to develop new skills and make contacts along the way. If you like challenges, enjoy learning and want to work where no two days are the same, this program is for you.
+
+If you have a successful internship, you may get an offer to return for our Graduate Talent Program after you've completed your studies.
+
+About UBS
+From gaining new experiences in different roles to acquiring fresh knowledge and skills – at UBS we believe that you should never stop growing and learning because life never stops teaching. We know that it's our people – with their unique backgrounds, skills, experience levels and interests – who drive our ongoing success. Ready to be part of # teamUBS and make an impact?   
+
+UBS works with individuals, families, institutions, and corporations around the world to help answer some of life's questions – whether through award winning wealth management advisory, investment banking and asset management expertise, or private and corporate banking services in Switzerland. In June 2023, Credit Suisse became a UBS Group company. 
+
